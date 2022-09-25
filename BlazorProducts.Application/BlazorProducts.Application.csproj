@@ -6,4 +6,14 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlazorProducts.Core\BlazorProducts.Core.csproj" />
+    <ProjectReference Include="..\BlazorProducts.Infrastructure\BlazorProducts.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
