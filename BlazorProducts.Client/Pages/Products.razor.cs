@@ -1,6 +1,6 @@
 ﻿
+using BlazorProducts.Application.Core.Repositories;
 using BlazorProducts.Core.Models;
-using BlazorProducts.Core.Repositories;
 using Microsoft.AspNetCore.Components;
 using System;
 using System.Collections.Generic;

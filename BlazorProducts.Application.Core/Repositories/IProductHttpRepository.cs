@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlazorProducts.Core.Repositories
+namespace BlazorProducts.Application.Core.Repositories
 {
     public interface IProductHttpRepository
     {

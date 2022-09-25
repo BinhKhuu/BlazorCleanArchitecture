@@ -1,6 +1,6 @@
+using BlazorProducts.Application.Core.Repositories;
 using BlazorProducts.Client;
 using BlazorProducts.Client.Repository;
-using BlazorProducts.Core.Repositories;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 

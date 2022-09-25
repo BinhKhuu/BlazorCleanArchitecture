@@ -1,5 +1,5 @@
-﻿using BlazorProducts.Core.Models;
-using BlazorProducts.Core.Repositories;
+﻿using BlazorProducts.Application.Core.Repositories;
+using BlazorProducts.Core.Models;
 using System.Text.Json;
 
 namespace BlazorProducts.Client.Repository
