@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZRkJN6Ba2JpCn1i59VOHWpNW6go/z+m8gSZNhiJXnPLfjS0Z43xQ0FLKlUeVWNYTYx0tyIkCcmEJLdQhboMDiQ==",
+  "dgSpecHash": "d9zkkvblgAO1nwxebP2bgrulaYgRqIYP9sZuwZ5YpZ80+7Kma1ml2LXa7QsMc44q2neD8nbCoLC+VURhsIUcUw==",
   "success": true,
   "projectFilePath": "D:\\Learning\\Blazor\\BlazorCleanArchitecture\\BlazorProducts\\BlazorProducts.Client\\BlazorProducts.Client.csproj",
   "expectedPackageFiles": [

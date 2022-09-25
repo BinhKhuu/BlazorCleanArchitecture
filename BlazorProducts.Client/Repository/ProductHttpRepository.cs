@@ -2,7 +2,7 @@
 using BlazorProducts.Core.Repositories;
 using System.Text.Json;
 
-namespace BlazorProducts.Application.Repository
+namespace BlazorProducts.Client.Repository
 {
     public class ProductHttpRepository : IProductHttpRepository
     {

@@ -22,6 +22,18 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Learning/Blazor/BlazorCleanArchitecture/BlazorProducts/BlazorProducts.Client/Components/CounterPrint.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb3VudGVyUHJpbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning/Blazor/BlazorCleanArchitecture/BlazorProducts/BlazorProducts.Client/Components/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning/Blazor/BlazorCleanArchitecture/BlazorProducts/BlazorProducts.Client/Components/ProductTable/ProductTable.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0VGFibGVcUHJvZHVjdFRhYmxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Learning/Blazor/BlazorCleanArchitecture/BlazorProducts/BlazorProducts.Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,6 +46,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Learning/Blazor/BlazorCleanArchitecture/BlazorProducts/BlazorProducts.Client/Pages/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning/Blazor/BlazorCleanArchitecture/BlazorProducts/BlazorProducts.Client/Pages/ReportError.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0RXJyb3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Learning/Blazor/BlazorCleanArchitecture/BlazorProducts/BlazorProducts.Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -41,6 +61,10 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/Learning/Blazor/BlazorCleanArchitecture/BlazorProducts/BlazorProducts.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning/Blazor/BlazorCleanArchitecture/BlazorProducts/BlazorProducts.Client/Pages/CustomNotFound.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tTm90Rm91bmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-2cxffuhyjp
 
 [D:/Learning/Blazor/BlazorCleanArchitecture/BlazorProducts/BlazorProducts.Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=

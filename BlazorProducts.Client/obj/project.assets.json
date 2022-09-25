@@ -390,6 +390,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "BlazorProducts.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BlazorProducts.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorProducts.Core.dll": {}
+        }
       }
     },
     "net6.0/browser-wasm": {
@@ -774,6 +784,16 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "BlazorProducts.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BlazorProducts.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorProducts.Core.dll": {}
         }
       }
     }
@@ -1537,10 +1557,16 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "BlazorProducts.Core/1.0.0": {
+      "type": "project",
+      "path": "../BlazorProducts.Core/BlazorProducts.Core.csproj",
+      "msbuildProject": "../BlazorProducts.Core/BlazorProducts.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BlazorProducts.Core >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.6",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.6"
     ]
@@ -1578,7 +1604,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Learning\\Blazor\\BlazorCleanArchitecture\\BlazorProducts\\BlazorProducts.Core\\BlazorProducts.Core.csproj": {
+              "projectPath": "D:\\Learning\\Blazor\\BlazorCleanArchitecture\\BlazorProducts\\BlazorProducts.Core\\BlazorProducts.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

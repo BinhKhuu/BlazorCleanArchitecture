@@ -1,4 +1,3 @@
-using BlazorProducts.Application.Repository;
 using BlazorProducts.Core.Repositories;
 using BlazorProducts.Infrastructure.DBContext;
 using Microsoft.EntityFrameworkCore;
@@ -26,7 +25,6 @@ builder.Services.AddCors(policy =>
 builder.Services.AddDbContext<ProductContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("ProductsDB")));
 
 builder.Services.AddScoped<IProductRepository, BlazorProducts.Infrastructure.Repository.ProductRepository>();
-builder.Services.AddScoped<IProductHttpRepository, ProductHttpRepository>();
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7025/api/") });
 var app = builder.Build();
 // Configure the HTTP request pipeline.
